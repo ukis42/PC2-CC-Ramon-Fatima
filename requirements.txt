@@ -1,0 +1,6 @@
+pymongo
+google-generativeai
+PyPDF2
+b2sdk
+cohere
+streamlit
